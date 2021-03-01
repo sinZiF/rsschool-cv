@@ -1,0 +1,17 @@
+.header {
+    background: $header;
+    color: $right-block;
+    text-align: center;
+    text-transform: uppercase;
+    h1 {
+        font-weight: 500;
+        font-size: 60px;
+        letter-spacing: 10px;
+        margin: 0;
+        padding: 10px;
+    }
+    p {
+        margin: 0;
+        padding-bottom: 15px;
+    }
+}

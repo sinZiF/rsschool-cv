@@ -1,0 +1,113 @@
+.description {
+    text-align: justify;
+    background: $right-block;
+    padding-left: 50px;
+    color: $text;
+
+    &__profile {
+        position: relative;
+
+        i {
+            color: $right-block;
+            font-size: 40px;
+            position: absolute;
+            top: 50%;
+            left: -33px;
+            padding-top: 14px;
+        }
+    }
+
+    &__descr-block {
+        position: relative;
+        border-left: 4px solid;
+        padding: 20px 50px;
+
+        ::after {
+            position: absolute;
+            content: '';
+            display: block;
+            top: 0;
+            left: 0;
+            width: 40px;
+            border: 2px solid;
+        }
+
+        ::before {
+            position: absolute;
+            content: '';
+            display: block;
+            bottom: 0;
+            left: 0;
+            position: absolute;
+            width: 40px;
+            border: 2px solid;
+        }
+    }
+
+    &__education {
+        position: relative;
+
+        i {
+            color: $right-block;
+            font-size: 40px;
+            position: absolute;
+            top: 50%;
+            left: -35px;
+            padding-top: 14px;
+        }
+    }
+
+    &__experience {
+        position: relative;
+        margin-bottom: 30px;
+
+        i {
+            color: $right-block;
+            font-size: 40px;
+            position: absolute;
+            top: 45%;
+            left: -33px;
+            padding-top: 14px;
+        }
+    }
+}
+
+// H2
+.name {
+    margin: 50px 0 10px 0;
+    position: relative;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.educ {
+    margin-bottom: 20px;
+
+    h3 {
+        color: $black;
+        margin-bottom: 10px;
+    }
+
+    p {
+        margin: 0;
+    }
+}
+
+// ICON STYLE
+.icon {
+    position: relative;
+    top: -50%;
+    left: 0;
+    transform: translateY(-50%);
+    z-index: 2;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 10pz;
+    background: $header;
+    transform: translateY(2px);
+    padding: 6px;
+}

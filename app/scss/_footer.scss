@@ -1,0 +1,40 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background: $header;
+    color: $right-block;
+    padding: 0 40px;
+    &__icons {
+        ul {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            margin: 5px 0 0 0;
+        }
+        img {
+            height: 30px;;
+        }
+        ul li:not(:last-child) {
+            padding-right: 25px;
+        }
+
+    }
+
+    // INFORMATION
+    &__information {
+        align-items: center;
+        display: flex;
+    }
+}
+
+
+    // ICONS
+    .icons {
+        &-git {
+            font-size: 35px;
+            padding-bottom: 5px;
+            i {
+                color: $black;
+            }
+        }
+    }
