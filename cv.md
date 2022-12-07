@@ -1,10 +1,14 @@
 # ANDREI KISLIUK
+
+
+### Mam na imię Andrei i jestem Białorusinem. Ponad 3 lata mieszkam w Polsce. Interesuje mnie jak działają strony internetowe i interakcja z użytkownikiem na nie. Za pomocom języka JavaScript możemy tworzyć różne ciekawe rzeczy i ten język tworzy naprawdę arcydzieło. Mianowicie dla tego poświęcam dużo wolnego czasu na naukę tego języka: czytam książki, piszę kod źródłowy, oglądam różne filmiki i biorę aktywny udział w różnych profesjonalnych szkoleniach. Następnym krokiem będzie poznawanie React-u i rozwój w kierunku Front-End Developera. Cały czas rozwijam swoje umiejętności językowe z polskiego i angielskiego i znam język rosyjski na poziomie ojczystym.
+ 
+___
+
+
+## Kontakt
 [GitHub](https://github.com/sinZiF) | kisliuk.andrei@gmail.com | [linkedin](https://www.linkedin.com/in/andrei-kisliuk-bb2357193/)
 
-___
- 
-### Mam na imię Andrei i jestem Białorusinem, już ponad 3 lata mieszkam w Polsce. Od jakiegoś czasu interesuje mnie, jak działają strony internetowe i interakcja z użytkownikiem na nie. Za pomocom języka JavaScript możemy tworzyć różne ciekawe rzeczy i ten język tworzy naprawdę arcydzieło. Mianowicie dla tego poświęcam dużo wolnego czasu na naukę tego języka: czytam książki, piszę kod źródłowy, oglądam różne filmiki i biorę aktywny udział w różnych profesjonalnych szkoleniach. Następnym krokiem będzie poznawanie React-u i rozwój w kierunku Front-End Developera. Cały czas rozwijam swoje umiejętności językowe z polskiego i angielskiego i znam język rosyjski na poziomie ojczystym.
- 
 ___
 
 ## Umiejętności:
@@ -17,6 +21,8 @@ ___
  * GitHub
  
 ___
+
+
 ## Przykład kodu:
  
  ```
@@ -44,8 +50,10 @@ window.addEventListener('DOMContentLoaded', () => {
 
 ___
  
- 
+
 ## Doświadczenie:
+
+### Kursy: 
 
 #### JS/FE Pre-School 2022Q4
 
@@ -62,7 +70,8 @@ Techniczna eksploatacja samochodów
 ___
  
 
- ## Języki:
+## Języki obce:
+
 #### Biłoruski:
 C2
 #### Rosyjski:
