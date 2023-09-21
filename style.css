@@ -404,7 +404,9 @@ html {
     left: -33px;
     padding-top: 14px;
   }
-
+.description__experience-name a {
+    color: #93928f;
+  }
   .name {
     margin: 20px 0 10px 0;
     position: relative;
