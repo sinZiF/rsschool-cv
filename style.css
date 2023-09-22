@@ -505,7 +505,8 @@ html {
   }
   .footer__icons ul {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: center;
     align-items: center;
     margin: 5px;
     padding: 0;
