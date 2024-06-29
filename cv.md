@@ -65,10 +65,10 @@ ___
 ## Wykształcenie:
 
 ##### Grodzieński Uniwersytet Państwowy im. Janki Kupały Sierpień 2017 - Maj 2018
-Prawoznawstwo
+### Prawoznawstwo
 
 ##### Pińska Państwowa przemysłowa szkoła pedagogiczna Sierpień 2009 - Maj 2012
-Techniczna eksploatacja samochodów
+### Techniczna eksploatacja samochodów
 
 ___
 
