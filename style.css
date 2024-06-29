@@ -1,3 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Nagłówek */
+
+header {
+    background: linear-gradient(to right, #4CAF50, #2196F3);
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.profile-picture {
+    width: 250px; /* Dostosowanie większego rozmiaru zdjęcia profilowego */
+    height: 250px;
+    border-radius: 50%; /* Zaokrąglenie kształtu */
+    object-fit: cover;
+    border: 5px solid white; /* Grubość i kolor obramowania */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Cień */
+    transition: transform 0.3s ease; /* Efekt przejścia */
+}
+
+.profile-picture:hover {
+    transform: scale(1.1); /* Powiększenie zdjęcia po najechaniu */
+}
+
+header h1 {
+    font-size: 3rem; /* Zwiększenie rozmiaru tytułu */
+    margin-top: 20px;
+}
+
+header p {
+    font-size: 1.5rem; /* Zwiększenie rozmiaru opisu */
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+/* Sekcje */
+
+section {
+    background-color: white;
+    padding: 40px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Linki */
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Stopka */
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    margin-top: 30px;
+    font-size: 0.9rem;
+}
+
+/* Responsywność */
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+    header p {
+        font-size: 1rem;
+    }
+    section {
+        padding: 30px;
+    }
 }
